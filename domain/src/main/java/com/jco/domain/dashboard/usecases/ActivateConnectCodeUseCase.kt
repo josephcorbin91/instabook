@@ -1,0 +1,3 @@
+package com.englishscore.mpp.domain.connect.usecases
+
+interface ActivateConnectCodeUseCase
